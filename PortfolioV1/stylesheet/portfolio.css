@@ -128,6 +128,7 @@ footer p {
     z-index: 1; /* This ensures other elements don't display over the navbar */
     -webkit-animation: moveNav 5s; /* Safari 4.0 - 8.0 */
     animation: moveNav 5s; /* This makes the moveNav animation last 5 seconds */
+
 }
 
 /* The animation effect for moving the nav bar in from above the left of the screen on page load */
